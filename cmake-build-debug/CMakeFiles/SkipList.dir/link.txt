@@ -1,0 +1,1 @@
+/usr/bin/clang++  -std=c++11 -Wall -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/SkipList.dir/SkipList.cpp.o CMakeFiles/SkipList.dir/tests.cpp.o -o ../SkipList  ../libSkipList_Darwin.a 
